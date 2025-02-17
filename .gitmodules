@@ -1,3 +1,4 @@
 [submodule "pyinstxtractor-ng"]
 	path = pyinstxtractor_ng
 	url = https://github.com/pyinstxtractor/pyinstxtractor-ng
+	branch = main
