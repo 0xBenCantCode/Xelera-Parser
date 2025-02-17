@@ -10,7 +10,7 @@ A set of tools for extracting information from a Xelera ransomware executable.
 - **`decrypt_notoken887.py`** – Decrypts encrypted `notoken887` output from `final.pyc`.
 - **`get_crypto_address.py`** – Extracts the Litecoin address from `imports.pyc`.
 - **`get_bot_token.py`** – Retrieves the Discord bot token from `imports.pyc`.
-
+- **`main.py`** – Retrieves bot token and Litecoin address from Xelera executable.
 ---
 
 For research and educational purposes only. Use responsibly.
